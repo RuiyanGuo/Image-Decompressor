@@ -1,1 +1,1 @@
-My Code for McMaster University's COMPENG 3DQ5: 'Digital Systems Design' course, taken in Fall 2021
+Created a custom Image Decompressor utilizing System Verilog, employing Finite State Machines (FSMs) for high-resolution image reconstruction, ensuring optimized image quality and fidelity.
